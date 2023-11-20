@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravza\form29\form29\bin\Debug\form29.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravza\form29\form29\bin\Debug\form29.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form29\form29\bin\Debug\form29.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravza\form29\form29\obj\Debug\form29.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form29\form29\obj\Debug\form29.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form29\form29\obj\Debug\form29.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form29\form29\obj\Debug\form29.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form29\form29\obj\Debug\form29.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form29\form29\obj\Debug\form29.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form29\form29\obj\Debug\form29.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form29\form29\obj\Debug\form29.pdb
